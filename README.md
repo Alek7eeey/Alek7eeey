@@ -34,8 +34,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-<img src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg"  title="C" alt="C" width="42" height="40"/>&nbsp;
-<img src="https://custom-icon-badges.herokuapp.com/badge/C++-11038A.svg"  title="C++" alt="C++" width="48" height="40"/>&nbsp;
+<img src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://custom-icon-badges.herokuapp.com/badge/C++-11038A.svg"  title="C++" alt="C++" width="52" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
