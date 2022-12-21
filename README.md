@@ -17,4 +17,5 @@
   <a href="https://github.com/Alek7eeey">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Telegram"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Alek7eeey&style=flat-square&color=blue" alt=""/>
 </div>
