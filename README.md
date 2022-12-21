@@ -6,9 +6,9 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
 
-<h2 align = "center">Social:</h2>
+<h2">:calling:Social:</h2>
 
-<div id="badges" align = "center">
+<div id="badges">
   <a href="https://vk.com/kravchenkoaleksey">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
   </a>
