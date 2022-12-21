@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
 
-<h2">:calling:Social:</h2>
+<h2>:calling:Social:</h2>
 
 <div id="badges">
   <a href="https://vk.com/kravchenkoaleksey">
