@@ -26,9 +26,9 @@
 ---
 
 ### :woman_technologist: About Me :
-:computer:I'am student of IT faculty at BSTU<br>
+:computer:I'm student of IT faculty at BSTU<br>
 :arrow_up:Future software developer<br>
-:cityscape:I from Minsk, Belarus:white_circle::red_circle::white_circle:
+:cityscape:I'm from Minsk, Belarus:white_circle::red_circle::white_circle:
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
