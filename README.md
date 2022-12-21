@@ -6,7 +6,6 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
 
-<p align = "center">Student of IT faculty at BSTU</p>
 <p align = "center">Future software developer</p>
 
 <h2 align = "center">Social:</h2>
@@ -31,4 +30,4 @@
 </div>
 
 ### :woman_technologist: About Me :
-I'am student of IT faculty <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at BSTU.
+I'am student of IT faculty :computer: at BSTU.
