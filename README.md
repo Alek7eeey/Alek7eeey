@@ -34,7 +34,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-<img src="https://icons8.com/icon/55251/c-sharp-logo.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/512/c-sharp-logo.png"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://custom-icon-badges.herokuapp.com/badge/C++-11038A.svg"  title="C++" alt="C++" width="45" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
