@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
 
-<p align = "center"><font color = " red" >Student of IT faculty at BSTU</font></p>
+<p align = "center" style="color:#0000FF">Student of IT faculty at BSTU</p>
 <p align = "center" style = color:"red">Student of IT faculty at BSTU</p>
 
 <h2 align = "center">Social:</h2>
