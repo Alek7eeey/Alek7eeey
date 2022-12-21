@@ -26,12 +26,12 @@
 ---
 
 ### :woman_technologist: About Me :
-:computer:I'm student of IT faculty at BSTU<br>
+:man_student:Student of IT faculty at BSTU<br>
 :arrow_up:Future software developer<br>
 :cityscape:From Minsk, Belarus:white_circle::red_circle::white_circle:
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Programming languages :
 
 <div>
 <img src="https://img.icons8.com/color/512/c-sharp-logo.png"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -47,7 +47,7 @@
 
 ---
 
-### 💻 Software and tools
+### :desktop_computer: Software and tools:
 <p>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000001.svg?style=flat-square&logo=github&logoColor=white"></a>
