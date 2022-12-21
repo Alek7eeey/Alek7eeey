@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
 
-<h2>Social:</h2>
+<h2 align = "center">Social:</h2>
 
 <div id="badges" align = "center">
   <a href="https://vk.com/kravchenkoaleksey">
