@@ -28,6 +28,6 @@
 </div>
 
 ### :woman_technologist: About Me :
-I'am student of IT faculty :computer: at BSTU<br>
+:computer:I'am student of IT faculty at BSTU<br>
 :arrow_up:Future software developer<br>
-:cityscape:From Minsk, Belarus:white_circle::red_circle::white_circle:
+:cityscape:I from Minsk, Belarus:white_circle::red_circle::white_circle:
