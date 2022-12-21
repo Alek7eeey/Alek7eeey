@@ -29,4 +29,4 @@
 
 ### :woman_technologist: About Me :
 I'am student of IT faculty :computer: at BSTU.
-:arrow_up:Future software developer
+-:arrow_up:Future software developer
