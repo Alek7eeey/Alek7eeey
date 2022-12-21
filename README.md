@@ -18,4 +18,6 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=Alek7eeey&style=flat-square&color=green" alt="statistic" align = "center"/>
+<div align = "center">
+  <img src="https://komarev.com/ghpvc/?username=Alek7eeey&style=flat-square&color=green" alt="statistic"/>
+</div>
