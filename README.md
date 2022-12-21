@@ -5,13 +5,13 @@
 <h2>Social:</h2>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=black" alt="VK"/>
+  <a href="https://vk.com/kravchenkoaleksey">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Instagram-MediumVioletRed?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
+  <a href="https://www.instagram.com/kravchenko__aleksey/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"/>
+  <a href="https://t.me/A1ek7eeey">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
