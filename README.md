@@ -6,9 +6,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Iam%20student%20of%20IT faculty%20at%20BSTU&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+<p align = "center" style = color:"red">I'm student of IT faculty at BSTU</p>
 
 <h2 align = "center">Social:</h2>
 
