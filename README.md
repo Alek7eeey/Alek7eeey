@@ -43,7 +43,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript.png"  title="C++" alt="C++" width="40" height="40"/>&nbsp;  
+<img src="![image](https://user-images.githubusercontent.com/95071723/217377272-3223d9e9-75ac-473b-bb7b-8af7f901faf1.png)"  title="C++" alt="TypeScript" width="40" height="40"/>&nbsp;  
 </div>
 
 ---
