@@ -47,6 +47,7 @@
 <img src="https://img.icons8.com/color/512/vue-js.png" title="VUE JS" alt="VUE JS" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
 </div>
+
 ---
 
 ### :desktop_computer: I use software and tools:
