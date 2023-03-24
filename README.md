@@ -44,9 +44,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;  
-<img src="https://img.icons8.com/color/512/vue-js.png" title="VUE JS" alt="VUE JS" width="40" height="40"/>&nbsp;  
+<img src="https://img.icons8.com/color/512/vue-js.png" title="VUE JS" alt="VUE JS" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
 </div>
-
 ---
 
 ### :desktop_computer: I use software and tools:
