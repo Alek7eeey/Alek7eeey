@@ -46,7 +46,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;  
 <img src="https://img.icons8.com/color/512/vue-js.png" title="VUE JS" alt="VUE JS" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; 
+<img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; 
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" title="React" alt="React" width="40" height="40"/>&nbsp; 
 </div>
 
