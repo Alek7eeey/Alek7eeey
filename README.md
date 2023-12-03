@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
 
-<h2>Social:</h2>
+<h2>&#127760; Social:</h2>
 
 <div id="badges">
   <a href="https://vk.com/kravchenkoaleksey">
@@ -65,7 +65,7 @@
  
 ---
 
-### :fire: My Stats :
+### &#128293; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alek7eeey&theme=dark&background=000000)](https://git.io/streak-stats)
 
   <a href="https://github.com/Alek7eeey"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaXDD&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
