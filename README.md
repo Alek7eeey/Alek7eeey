@@ -25,7 +25,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### &#128105;&#8205;&#128187; About Me :
 :man_student:Student of IT faculty at BSTU<br>
 :arrow_up:Future software developer<br>
 &#127961;&#65039; From Minsk, Belarus &#9898; &#128308; &#9898;
@@ -54,7 +54,7 @@
 
 ---
 
-### :desktop_computer: I use software and tools:
+### &#128421;&#65039; I use software and tools:
 <p>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000001.svg?style=flat-square&logo=github&logoColor=white"></a>
