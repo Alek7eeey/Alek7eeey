@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
 
-<h2>:calling:Social:</h2>
+<h2>Social:</h2>
 
 <div id="badges">
   <a href="https://vk.com/kravchenkoaleksey">
@@ -28,7 +28,7 @@
 ### :woman_technologist: About Me :
 :man_student:Student of IT faculty at BSTU<br>
 :arrow_up:Future software developer<br>
-:cityscape:From Minsk, Belarus:white_circle::red_circle::white_circle:
+From Minsk, Belarus:
 
 ---
 ### :hammer_and_wrench: I work with programming languages :
