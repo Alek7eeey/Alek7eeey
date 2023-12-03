@@ -28,7 +28,7 @@
 ### :woman_technologist: About Me :
 :man_student:Student of IT faculty at BSTU<br>
 :arrow_up:Future software developer<br>
-From Minsk, Belarus &#128308;
+From Minsk, Belarus &#9898; &#128308; &#9898;
 
 ---
 ### :hammer_and_wrench: I work with programming languages :
