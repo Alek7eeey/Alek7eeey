@@ -28,10 +28,10 @@
 ### :woman_technologist: About Me :
 :man_student:Student of IT faculty at BSTU<br>
 :arrow_up:Future software developer<br>
-&#128104;&#127995;&#8205;&#127891; From Minsk, Belarus &#9898; &#128308; &#9898;
+&#127961;&#65039; From Minsk, Belarus &#9898; &#128308; &#9898;
 
 ---
-### :hammer_and_wrench: I work with programming languages :
+### &#128736;&#65039; I work with programming languages :
 
 <div>
 <img src="https://img.icons8.com/color/512/c-sharp-logo.png"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
