@@ -27,7 +27,7 @@
 
 ### &#128105;&#8205;&#128187; About Me :
 :man_student:Student of IT faculty at BSTU<br>
-:arrow_up:Future software developer<br>
+:arrow_up:Software developer<br>
 &#127961;&#65039; From Minsk, Belarus &#9898; &#128308; &#9898;
 
 ---
